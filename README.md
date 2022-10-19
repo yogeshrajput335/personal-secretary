@@ -18,3 +18,8 @@ ng serve or npm run start
 ## Local Reference Code Path 
 
 > G:\Github\angular-material-template
+
+
+## DOTNET CORE with DAPPER API
+
+> https://github.com/yogeshrajput335/PersonalSecretaryApi
