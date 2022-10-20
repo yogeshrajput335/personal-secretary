@@ -11,3 +11,5 @@ To create a pull request, follow these steps:
 * If you added functionality or fixed a bug, please add a test.
 * Add your name to the AUTHORS.txt file.
 * Push to your fork and submit a pull request.
+
+** Open to contribute **
